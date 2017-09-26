@@ -1,2 +1,2 @@
 puts "Hello World!!!"
-puts "gay gay wonderland"
+puts "ƒKƒ`ƒzƒ‚DAYS!!"
